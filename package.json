@@ -1,0 +1,22 @@
+{
+  "name": "azuretest",
+  "version": "1.0.0",
+  "description": "測試一些Azure服務",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viderl/AzureTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viderl/AzureTest/issues"
+  },
+  "homepage": "https://github.com/Viderl/AzureTest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
